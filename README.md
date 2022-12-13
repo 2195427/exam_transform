@@ -1,7 +1,7 @@
 # exam_transform
 #transform exam questions
 ##
-Write line 4 in the python IDE command line to install the following:
+Write in the python IDE command line to install the following:
 pip install python libraries for python script (torch and transformer)
 ##
 in terminal the working directory
