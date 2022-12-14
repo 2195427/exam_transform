@@ -13,6 +13,7 @@ Edit the python script with an IDE and run in the terminal of the IDE: \
 ` pip install torch `\
 ` pip install transformers `
 
+##
 url:localhost/working directory/exammvc/index.php
 ##
 upload a .txt file(exam file), transform questions part to a new .txt file for students(trans*.txt)and professors(teachtrans*.txt).
