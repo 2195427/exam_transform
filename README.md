@@ -2,7 +2,7 @@
 Download this github repository inside your working directory
 ##
 Open command prompt/terminal in working directory\
-Type following commands to clone git repository: \
+Type following commands to clone the pharaphrase git repository: \
 ` git lfs install `\
 ` git clone https://huggingface.co/tuner007/pegasus_paraphrase`
 ![image](https://user-images.githubusercontent.com/106719596/207449966-d7a3a077-a37b-4b4b-b7d2-7e51fa1bdf3b.png)
