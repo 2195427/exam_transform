@@ -7,7 +7,7 @@ Type following commands to clone git repository: \
 ![image](https://user-images.githubusercontent.com/106719596/207449966-d7a3a077-a37b-4b4b-b7d2-7e51fa1bdf3b.png)
 
 ##
-To test program, use python script in the working directory \
+To test program, use python script (pegasusPara.py) in the working directory \
 Edit the python script with an IDE and run in the terminal of the IDE: \
 ` pip install torch `\
 ` pip install transformers `
