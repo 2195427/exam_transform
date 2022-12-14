@@ -1,5 +1,5 @@
 # exam_transform
-Download this github repository inside your working directory\
+Download this github repository inside your working directory
 ##
 Open command prompt/terminal in working directory\
 Type following commands to clone git repository: \
